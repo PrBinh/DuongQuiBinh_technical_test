@@ -1,0 +1,3 @@
+The Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Linux distributions.
+To compile software package, I’ll need to download the source code, run the configure command, install any required dependency packages, 
+then run the make command to begin compiling my package.
