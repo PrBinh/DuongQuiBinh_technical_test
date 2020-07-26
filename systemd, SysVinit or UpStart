@@ -1,5 +1,5 @@
 As my knowledge and prefer in wiki, systemd is a software suite that provides an array of system components for Linux operating systems.
-It manages (on / off / reboot ...). It also manages the system always (system) work in particular: set the hostname (hostname), 
-configure the loopback interface , set up and mount the filesystem as / sys / proc ...
+It manages (on / off / reboot ...). It also manages the system always (system) work in particular: set the hostname, configure the loopback interface, 
+set up and mount the filesystem as / sys / proc ...
 It is traditional & mother of init system which is the first process get started by kernel and holding PID 1.
 SysVinit or UpStart is similary.
