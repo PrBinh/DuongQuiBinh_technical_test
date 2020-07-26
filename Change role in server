@@ -1,0 +1,3 @@
+With a question: Should you clean trash in your server when change role?
+I think we should keep trash when change role, because if changing process  was corrupt or error, we can rollback the system to the previous time.
+After the system running stability, we can clean trash.
