@@ -1,0 +1,8 @@
+Heartbleed is a security bug in the OpenSSL cryptography library, which is a widely used implementation of the Transport Layer Security (TLS) protocol. It was introduced into the software in 2012 and publicly disclosed in April 2014. Heartbleed may be exploited regardless of whether the vulnerable OpenSSL instance is running as a TLS server or client. 
+It results from improper input validation (due to a missing bounds check) in the implementation of the TLS heartbeat extension.
+
+Shellshock is a vulnerability in the BASH program that is present on almost every Unix-based computer and device in the world (Linux, Mac OS X, Android). 
+Hackers could use Shellshock to take control of a device or even run programs covertly in the background.
+
+POODLE is a vulnerability in the design of the encryption standard Secure Socket Layer (SSL) version 3.0 that makes the protocol nearly impossible to use safely. 
+Used by both websites and web browsers, this vulnerability allows encrypted information to be exposed by an attacker with network access.
