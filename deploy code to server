@@ -1,1 +1,6 @@
+I deploy code to server with git.
+The first, i add, commit and push this to github.
+On the server, i will install and setup git. Create an SSH derectory. Generate a deploy key for user.
+On github, i add SSH key to user. Setup service hook.
+After that, on the server, i pull from origin.
 
