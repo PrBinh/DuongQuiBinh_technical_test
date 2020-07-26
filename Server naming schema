@@ -1,6 +1,6 @@
 I think we must have server naming schema. It will make manage system easy if we organization is large.
 In this design process, i'll create my own naming conventions for my IT assets that is scalable, readable, standardized and flexible.
-This is similar for hostname of server.
+Depending on each specific case, we have a naming convention suitable.
 Ex: my server hostname is USLAADB-P001
     US: country code (United Stade)
     LA: location code (los angeles)
