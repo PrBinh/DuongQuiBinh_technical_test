@@ -1,5 +1,3 @@
-# DuongQuiBinh_technical_tes
+# DuongQuiBinh_technical_test
 
-if change the file
-it will merge 2 file
   
