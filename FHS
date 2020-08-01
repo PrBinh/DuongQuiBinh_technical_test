@@ -1,3 +1,15 @@
 The Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Linux distributions.
-To compile software package, I’ll need to download the source code, run the configure command, install any required dependency packages, 
-then run the make command to begin compiling my package.
+To compile software package, I’ll need to download the source code
+afer download completed, i go to store and unpack:
+  cd source
+  tar xzvf example.tar.gz
+  cd example
+then, reading Document. The documentation may point me to other software that i need to install before i can install this package
+  less INSTALL
+after that, building
+  ./configure
+compile
+  make
+  make install
+  
+To manage package compile, i will use VCS tool
