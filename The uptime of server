@@ -1,2 +1,5 @@
-with a sysadmin role, i think the server uptime will be 24/7. It will be great if zero downtime.
-The case new version OS, i will check it before decide upgrade, because sometime after upgrade it have more bug and will take a long time to restore system.
+The downtime as know the services stop and don't respone any request from client. 
+In theory it would be great if the downtime would be zero, but it cann't. However, we can decrease it to minimum (less than 1%).
+Actually, the uptime of my server is more than 98%.
+
+I have usually update new version OS, because it was recommend.
