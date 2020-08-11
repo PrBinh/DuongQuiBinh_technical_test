@@ -1,5 +1,4 @@
-The downtime as know the services stop and don't respone any request from client. 
-In theory it would be great if the downtime would be zero, but it cann't. However, we can decrease it to minimum (less than 1%).
-Actually, the uptime of my server is more than 98%.
+My server have more than 95% uptime during all time it run.
 
-I have usually update new version OS, because it was recommend.
+I don't update new version OS because my server used for local.
+if it must connect to internet, i will update it early.
