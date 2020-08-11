@@ -1,5 +1,9 @@
-As my knowledge and prefer in wiki, systemd is a software suite that provides an array of system components for Linux operating systems.
+Systemd is a software suite that provides an array of system components for Linux operating systems.
 It manages (on / off / reboot ...). It also manages the system always (system) work in particular: set the hostname, configure the loopback interface, 
 set up and mount the filesystem as / sys / proc ...
 It is traditional & mother of init system which is the first process get started by kernel and holding PID 1.
-SysVinit or UpStart is similary.
+
+SysVinit is the first process that is executed once the Linux kernel loads.
+
+Upstart is an event-based replacement for the /sbin/init daemon which handles starting of tasks and services during boot, 
+stopping them during shutdown and supervising them while the system is running.
