@@ -1,3 +1,3 @@
-I don't use redis and mongodb. But i know mongodb is a rich query language. MongoDB offers easy of use and simplicity.
-Default, mongodb disable authentication mode, so if we want use username/pass to access, we must enable it when start mongodb (mongod -auth).
+i have use both redis and mongoDB.
+redis is an key-value caching, so it will be fast to access. it was used for gaming, health, IoT or finance.
 
