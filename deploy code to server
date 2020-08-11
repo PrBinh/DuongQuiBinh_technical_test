@@ -8,4 +8,7 @@ on master branch, auto test code (by script tool), if ok enable deploy feature t
 review again and deploy it, QA/tester test again on production server.
 if it error, i rollback to previous version in master branch.
 
+I don't use git pull for deployment. Because if remote repo conflict with local repo, it damange product and disaster.
+i will use git fetch to view any change before merge code.
+
 
