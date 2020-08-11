@@ -1,3 +1,6 @@
 i have use both redis and mongoDB.
 redis is an key-value caching, so it will be fast to access. it was used for gaming, health, IoT or finance.
+To authentication:
+  - with Redis: i use cmd: AUTH <username> <password>
+  - with mongoDB: i can use command line or mongo shell.
 
