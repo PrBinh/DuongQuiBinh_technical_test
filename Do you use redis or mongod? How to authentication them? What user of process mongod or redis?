@@ -4,3 +4,5 @@ To authentication:
   - with Redis: i use cmd: AUTH <username> <password>
   - with mongoDB: i can use command line or mongo shell.
 
+The user of redis or mongod is you define and setup during config.
+
